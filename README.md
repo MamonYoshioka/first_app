@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 学習復習
 
-Things you may want to cover:
+* Ruby version => ruby 3.1.2
 
-* Ruby version
+* 機能面
+    - first step : topページを表示(controllerとveiwなどを設定)
+    - second step : model(titleとbodyなどを文字列で設定する)
+    - third step :
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* その他
+    - configなど(多少のファイルの編集)はvimを使って編集する
 
 * ...
